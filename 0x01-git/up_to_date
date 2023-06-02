@@ -1,1 +1,2 @@
-cat > filename
+git pull
+cat > "file name"
